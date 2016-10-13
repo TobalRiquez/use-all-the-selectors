@@ -15,21 +15,25 @@ nav ul{
 }
 
 .wrapper{
-  background-color: ##b58900;
+  background-color: #eee8d5;
 }
 
 .contents, .fav, .fact, .types{
   color: #93a1a1;
 }
 
-.dfn strong{
+.weapper .dfn{
+  background-color: #b58900;
+}
+
+.weapper .dfn strong{
   color: #fff;
 }
 html mark{
   background-color: #719e07;
 }
 
-rel:{
+ul li .rel{
   background-color: #2694d8;
 }
 
